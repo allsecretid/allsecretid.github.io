@@ -4,5 +4,11 @@
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png",Kompas TV - SD
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg" group-title="INDONESIA", KOMPASTV - SD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
+
+
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png",Kompas TV - new
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/kompastv.m3u8
