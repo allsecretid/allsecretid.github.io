@@ -1,5 +1,5 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="INDONESIA" group-title="INDONESIA" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI - HD
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="INDONESIA" group-title="INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/RCTI%2B.svg/1200px-RCTI%2B.svg.png",RCTI - HD
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
