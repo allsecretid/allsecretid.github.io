@@ -1,24 +1,25 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="INDONESIA", INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="INDONESIA", Indosiar - SD (1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://bit.ly/3MeFJVc
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="INDONESIA", INDOSIAR2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", INDOSIAR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://bit.ly/3MeFJVc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="INDONESIA", INDOSIAR - FHD
 http://103.166.27.2:8112/play/a016/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="INDONESIA", INDOSIAR
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="INDONESIA", INDOSIAR3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar (D*)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", INDOSIAR4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3MeFJVc
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar Digital
-http://198.16.100.90:8278/Sctv/playlist.m3u8?tid=MEAE5576803555768035&ct=19249&tsum=22cd08338943a038eb9a5bcf2ff7cba3
-https://mantul.biz.id:443/ekos/748382/5286.ts
+
+
+
