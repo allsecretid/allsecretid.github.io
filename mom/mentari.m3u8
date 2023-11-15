@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-SERVER:IPTVID
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:911843
+#EXTINF:10.0,
+https://streaming.indihometv.com/joss/134/mentaritv/b1044100_sleng_911843.ts
+#EXTINF:10.0,
+https://streaming.indihometv.com/joss/134/mentaritv/b1044100_sleng_911844.ts
+#EXTINF:10.0,
+https://streaming.indihometv.com/joss/134/mentaritv/b1044100_sleng_911845.ts
