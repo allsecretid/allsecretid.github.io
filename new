@@ -51,7 +51,7 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png", Kompas TV - HD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png", Kompas TV - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/KompasTV.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png", Kompas TV - SD
@@ -64,7 +64,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://iptvid.my.id/hmm/nadyabcc/kampang/mentaritv.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", Metro TV - SD
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", Metro TV - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/MetroTV.m3u8
 
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png", Metro TV - SD
@@ -97,10 +97,10 @@ http://103.166.27.2:8112/play/a017/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://raw.githubusercontent.com/eepunx/cancan/main/moj
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU", NET.TV - HD 1
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU", NET.TV - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/NET.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU", NET.TV - HD 2
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU", NET.TV - HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -529,13 +529,8 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", Pesona Indonesia TV - SD
 https://h1.intechmedia.net/intech/ch92.m3u8
 
-
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU", test - HD 1
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://yt3.googleusercontent.com/TgL5KUN48UWo9ADJskGN0NEDD7QJRUvyotOQ5_i0X5fitOERE-d4Utvw8LQNSX9yXgKNmeaJZO4=s176-c-k-c0x00ffffff-no-rj", The K-POP - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/Live.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU", test - HD 2
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/Live2.m3u8
-
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8xlIWoxGqF9pqFzEQJCap779vOj97a9Qvw&usqp=CAU", test - HD 3
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i1.sndcdn.com/avatars-VQxC0uznCGWloNB6-hE4mLA-t500x500.jpg", Chill your mind - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
