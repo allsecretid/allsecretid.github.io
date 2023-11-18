@@ -83,6 +83,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://103.30.87.238:443/wadmanet/norlec212/858
 
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png", Moji TV - FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://103.166.27.2:8112/play/a017/index.m3u8
+
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png", Moji TV - SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://raw.githubusercontent.com/eepunx/cancan/main/moj
