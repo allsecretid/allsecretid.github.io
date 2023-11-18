@@ -529,11 +529,11 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/480px-TVRILogo2019.svg.png", Pesona Indonesia TV - SD
 https://h1.intechmedia.net/intech/ch92.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://yt3.googleusercontent.com/TgL5KUN48UWo9ADJskGN0NEDD7QJRUvyotOQ5_i0X5fitOERE-d4Utvw8LQNSX9yXgKNmeaJZO4=s176-c-k-c0x00ffffff-no-rj", The K-POP - FHD
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://yt3.googleusercontent.com/TgL5KUN48UWo9ADJskGN0NEDD7QJRUvyotOQ5_i0X5fitOERE-d4Utvw8LQNSX9yXgKNmeaJZO4=s176-c-k-c0x00ffffff-no-rj", The K-POP - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/Live.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i1.sndcdn.com/avatars-VQxC0uznCGWloNB6-hE4mLA-t500x500.jpg", Chill your mind - FHD
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i1.sndcdn.com/avatars-VQxC0uznCGWloNB6-hE4mLA-t500x500.jpg", Chill your mind - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
 
-#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i1.sndcdn.com/avatars-VQxC0uznCGWloNB6-hE4mLA-t500x500.jpg", Test - FHD
+#EXTINF:-1 group-title="Uncategories" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png", TLC - FHD
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
