@@ -29,11 +29,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index
 
 
 
+##### Hiburan #####
 
 
 
 
-##### MOVIES #####
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg", AXN - HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg", AXN - SD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8 
+
+
+##### Film #####
 
 #EXTINF:-1 group-title="Film" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5oGWxHvxWM5uS53QM4WG6DKsg3VwXIWzKCg&usqp=CAU", Zee Bioskop - SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
