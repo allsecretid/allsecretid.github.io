@@ -3,7 +3,8 @@
 http://iptvid.my.id/hmm/nadyabcc/kampang/mentaritv.m3u8
 
 
-#EXTINF:-1 group-title="Hiburan" tvg-logo="https://www.mncvision.id/userfiles/image/channel/axn_150x150.jpg", AXN - HD
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://id.m.wikipedia.org/wiki/Berkas:Warner_Channel.svg", Warner TV - SD
+https://s.id/1W5kq
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
