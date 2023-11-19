@@ -31,6 +31,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index
 
 ##### Hiburan #####
 
+#EXTINF:-1 group-title="Hiburan" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png", TVN - HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 group-title="Hiburan" tvg-logo="https://id.m.wikipedia.org/wiki/Berkas:Warner_Channel.svg", Warner TV - SD
 https://s.id/1W5kq
@@ -46,6 +51,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index
 
 
 ##### Film #####
+
+#EXTINF:-1 group-title="Film" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png", TVN Movies - HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 group-title="Film" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5oGWxHvxWM5uS53QM4WG6DKsg3VwXIWzKCg&usqp=CAU", Zee Bioskop - SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
