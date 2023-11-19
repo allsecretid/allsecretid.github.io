@@ -5,30 +5,27 @@ http://iptvid.my.id/hmm/nadyabcc/kampang/mentaritv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO GRUP", ID: HBO
-#http://tvkuonline.my.id:25461/riyad/riyad/412
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO GRUP", ID: HBO Family
-#http://tvkuonline.my.id:25461/riyad/riyad/415
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO GRUP", ID: HBO Hits
-#http://tvkuonline.my.id:25461/riyad/riyad/413
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO GRUP", ID: HBO Signature
-#http://tvkuonline.my.id:25461/riyad/riyad/414
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO GRUP", ID: Cinemax
-#http://tvkuonline.my.id:25461/riyad/riyad/424
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Premium Movies" tvg-id="HITS - [Channel 160].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810",Hits
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Premium Movies" tvg-id="HITS MOVIES HD - [Channel 409].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",Hits Movies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO 1
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Premium Movies" tvg-id="PARAMOUNT HD - [Channel 441].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/762px-Paramount_Pictures_Corporation_logo.svg.png",Paramount Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits 1
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/196480
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Premium Movies" tvg-id="tvN HD - [Channel 446].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png",TVN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="Premium Movies",HBO Family 1
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197055
-
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Premium Movies",HBO Signature 1
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
-
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax 1
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Premium Movies" tvg-id="tvN Movies HD - [Channel 415].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png",TVN Movies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
