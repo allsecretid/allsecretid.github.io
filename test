@@ -2,6 +2,15 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://iptvid.my.id/hmm/nadyabcc/kampang/mentaritv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="Sports", BEIN SPORT@
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646977_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="Sports", BEIN SPORT 2@
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646976_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="Sports", BEIN SPORT 3@
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646975_&extension=ts
+
 
 #EXTINF:-1 group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 1 ID_1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
