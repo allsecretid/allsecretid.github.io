@@ -496,8 +496,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png", HGTV - SD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="FIRSTMEDIA", TLC
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png", TLC - SD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 
 
@@ -1141,5 +1140,4 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt2/main/Live.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i1.sndcdn.com/avatars-VQxC0uznCGWloNB6-hE4mLA-t500x500.jpg", Chill your mind - FHD
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
 
-#EXTINF:-1 group-title="Uncategories" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png", TLC - FHD
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
+
